@@ -5,4 +5,13 @@
     "package_name": "com.topetornot",
     "sha256_cert_fingerprints": ["F9:1E:24:1F:65:85:C1:86:27:80:35:8F:55:93:9E:BD:39:CF:B4:96:11:43:40:3B:C8:D1:BF:41:58:4C:D7:4E"]
   }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.topetornot",
+    "sha256_cert_fingerprints":
+    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+  }
 }]
+
